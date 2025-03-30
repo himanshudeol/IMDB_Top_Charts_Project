@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Genre 1,Genre 2,Genre 3,Duration,Number of Reviews(Votes),Director
+1,The Shawshank Redemption,1994,9.3,Drama,N/A,N/A,2h 22m,3000000.0,Frank Darabont
+2,The Godfather,1972,9.2,Crime,Drama,N/A,2h 55m,2100000.0,Francis Ford Coppola
+3,The Dark Knight,2008,9.0,Action,Crime,Drama,2h 32m,3000000.0,Christopher Nolan
+4,The Godfather Part II,1974,9.0,Crime,Drama,N/A,3h 22m,1400000.0,Francis Ford Coppola
+5,12 Angry Men,1957,9.0,Crime,Drama,N/A,1h 36m,919000.0,Sidney Lumet
+6,The Lord of the Rings: The Return of the King,2003,9.0,Adventure,Drama,Fantasy,3h 21m,2100000.0,Peter Jackson
+7,Schindler's List,1993,9.0,Biography,Drama,History,3h 15m,1500000.0,Steven Spielberg
+8,Pulp Fiction,1994,8.9,Crime,Drama,N/A,2h 34m,2300000.0,Quentin Tarantino
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,Adventure,Drama,Fantasy,2h 58m,2100000.0,Peter Jackson
+10,"The Good, the Bad and the Ugly",1966,8.8,Adventure,Western,N/A,2h 58m,848000.0,Sergio Leone
+11,Forrest Gump,1994,8.8,Drama,Romance,N/A,2h 22m,2400000.0,Robert Zemeckis
+12,The Lord of the Rings: The Two Towers,2002,8.8,Adventure,Drama,Fantasy,2h 59m,1900000.0,Peter Jackson
+13,Fight Club,1999,8.8,Crime,Drama,Thriller,2h 19m,2400000.0,David Fincher
+14,Inception,2010,8.8,Action,Adventure,Sci-Fi,2h 28m,2700000.0,Christopher Nolan
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Action,Adventure,Fantasy,2h 4m,1400000.0,Irvin Kershner
+16,The Matrix,1999,8.7,Action,Sci-Fi,N/A,2h 16m,2100000.0,Lana Wachowski
+17,Goodfellas,1990,8.7,Biography,Crime,Drama,2h 25m,1300000.0,Martin Scorsese
+18,One Flew Over the Cuckoo's Nest,1975,8.7,Drama,N/A,N/A,2h 13m,1100000.0,Milos Forman
+19,Interstellar,2014,8.7,Adventure,Drama,Sci-Fi,2h 49m,2300000.0,Christopher Nolan
+20,Se7en,1995,8.6,Crime,Drama,Mystery,2h 7m,1900000.0,David Fincher
+21,It's a Wonderful Life,1946,8.6,Drama,Family,Fantasy,2h 10m,525000.0,Frank Capra
+22,Seven Samurai,1954,8.6,Action,Drama,N/A,3h 27m,382000.0,Akira Kurosawa
+23,The Silence of the Lambs,1991,8.6,Crime,Drama,Horror,1h 58m,1600000.0,Jonathan Demme
+24,Saving Private Ryan,1998,8.6,Drama,War,N/A,2h 49m,1600000.0,Steven Spielberg
+25,City of God,2002,8.6,Crime,Drama,N/A,2h 10m,833000.0,Fernando Meirelles
+26,The Green Mile,1999,8.6,Crime,Drama,Fantasy,3h 9m,1500000.0,Frank Darabont
+27,Life Is Beautiful,1997,8.6,Comedy,Drama,Romance,1h 56m,774000.0,Roberto Benigni
+28,Terminator 2: Judgment Day,1991,8.6,Action,Adventure,Sci-Fi,2h 17m,1200000.0,James Cameron
+29,Star Wars: Episode IV - A New Hope,1977,8.6,Action,Adventure,Fantasy,2h 1m,1500000.0,George Lucas
+30,Back to the Future,1985,8.5,Adventure,Comedy,Sci-Fi,1h 56m,1400000.0,Robert Zemeckis
+31,Spirited Away,2001,8.6,Animation,Adventure,Family,2h 4m,902000.0,Hayao Miyazaki
+32,The Pianist,2002,8.5,Biography,Drama,Music,2h 30m,962000.0,Roman Polanski
+33,Gladiator,2000,8.5,Action,Adventure,Drama,2h 35m,1700000.0,Ridley Scott
+34,Parasite,2019,8.5,Drama,Thriller,N/A,2h 12m,1100000.0,Bong Joon Ho
+35,Psycho,1960,8.5,Horror,Mystery,Thriller,1h 49m,749000.0,Alfred Hitchcock
+36,The Lion King,1994,8.5,Animation,Adventure,Drama,1h 28m,1200000.0,Roger Allers
+37,Grave of the Fireflies,1988,8.5,Animation,Drama,War,1h 28m,344000.0,Isao Takahata
+38,The Departed,2006,8.5,Crime,Drama,Thriller,2h 31m,1500000.0,Martin Scorsese
+39,Whiplash,2014,8.5,Drama,Music,N/A,1h 46m,1100000.0,Damien Chazelle
+40,Harakiri,1962,8.6,Drama,Mystery,N/A,2h 13m,79000.0,Masaki Kobayashi
+41,American History X,1998,8.5,Crime,Drama,N/A,1h 59m,1200000.0,Tony Kaye
+42,The Prestige,2006,8.5,Drama,Mystery,Sci-Fi,2h 10m,1500000.0,Christopher Nolan
+43,Léon: The Professional,1994,8.5,Action,Crime,Drama,1h 50m,1300000.0,Luc Besson
+44,Spider-Man: Across the Spider-Verse,2023,8.5,Animation,Action,Adventure,2h 20m,445000.0,Joaquim Dos Santos
+45,Casablanca,1942,8.5,Drama,Romance,War,1h 42m,628000.0,Michael Curtiz
+46,The Usual Suspects,1995,8.5,Crime,Drama,Mystery,1h 46m,1200000.0,Bryan Singer
+47,The Intouchables,2011,8.5,Comedy,Drama,N/A,1h 52m,972000.0,Olivier Nakache
+48,Cinema Paradiso,1988,8.5,Drama,Romance,N/A,2h 54m,299000.0,Giuseppe Tornatore
+49,Modern Times,1936,8.5,Comedy,Drama,Romance,1h 27m,271000.0,Charles Chaplin
+50,Alien,1979,8.5,Horror,Sci-Fi,N/A,1h 57m,1000000.0,Ridley Scott
+51,Rear Window,1954,8.5,Drama,Mystery,Thriller,1h 52m,543000.0,Alfred Hitchcock
+52,Once Upon a Time in the West,1968,8.5,Drama,Western,N/A,2h 46m,366000.0,Sergio Leone
+53,Django Unchained,2012,8.5,Western,N/A,N/A,2h 45m,1800000.0,Quentin Tarantino
+54,City Lights,1931,8.5,Comedy,Drama,Romance,1h 27m,206000.0,Charles Chaplin
+55,Apocalypse Now,1979,8.4,Drama,Mystery,War,2h 27m,738000.0,Francis Ford Coppola
+56,Dune: Part Two,2024,8.5,Action,Adventure,Drama,2h 46m,616000.0,Denis Villeneuve
+57,Memento,2000,8.4,Mystery,Thriller,N/A,1h 53m,1400000.0,Christopher Nolan
+58,WALL·E,2008,8.4,Animation,Adventure,Family,1h 38m,1300000.0,Andrew Stanton
+59,Raiders of the Lost Ark,1981,8.4,Action,Adventure,N/A,1h 55m,1100000.0,Steven Spielberg
+60,The Lives of Others,2006,8.4,Drama,Mystery,Thriller,2h 17m,426000.0,Florian Henckel von Donnersmarck
+61,Avengers: Infinity War,2018,8.4,Action,Adventure,Sci-Fi,2h 29m,1300000.0,Anthony Russo
+62,Sunset Boulevard,1950,8.4,Drama,Film-Noir,N/A,1h 50m,248000.0,Billy Wilder
+63,Spider-Man: Into the Spider-Verse,2018,8.4,Animation,Action,Adventure,1h 57m,723000.0,Bob Persichetti
+64,Paths of Glory,1957,8.4,Drama,War,N/A,1h 28m,225000.0,Stanley Kubrick
+65,Witness for the Prosecution,1957,8.4,Crime,Drama,Mystery,1h 56m,149000.0,Billy Wilder
+66,The Shining,1980,8.4,Drama,Horror,N/A,2h 26m,1200000.0,Stanley Kubrick
+67,The Great Dictator,1940,8.4,Comedy,Drama,War,2h 5m,248000.0,Charles Chaplin
+68,12th Fail,2023,8.8,Biography,Drama,N/A,2h 27m,145000.0,Vidhu Vinod Chopra
+69,Aliens,1986,8.4,Action,Adventure,Horror,2h 17m,805000.0,James Cameron
+70,Inglourious Basterds,2009,8.4,Adventure,Drama,War,2h 33m,1700000.0,Quentin Tarantino
+71,The Dark Knight Rises,2012,8.4,Action,Crime,Drama,2h 44m,1900000.0,Christopher Nolan
+72,Coco,2017,8.4,Animation,Adventure,Drama,1h 45m,643000.0,Lee Unkrich
+73,Amadeus,1984,8.4,Biography,Drama,Music,2h 40m,446000.0,Milos Forman
+74,Toy Story,1995,8.3,Animation,Adventure,Comedy,1h 21m,1100000.0,John Lasseter
+75,Avengers: Endgame,2019,8.4,Action,Adventure,Sci-Fi,3h 1m,1300000.0,Anthony Russo
+76,Good Will Hunting,1997,8.3,Drama,Romance,N/A,2h 6m,1100000.0,Gus Van Sant
+77,Oldboy,2003,8.3,Action,Drama,Mystery,2h,674000.0,Park Chan-wook
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Comedy,War,N/A,1h 35m,536000.0,Stanley Kubrick
+79,American Beauty,1999,8.3,Drama,N/A,N/A,2h 2m,1200000.0,Sam Mendes
+80,Das Boot,1981,8.4,Drama,War,N/A,2h 29m,278000.0,Wolfgang Petersen
+81,Braveheart,1995,8.3,Biography,Drama,War,2h 58m,1100000.0,Mel Gibson
+82,Princess Mononoke,1997,8.3,Animation,Adventure,Fantasy,2h 13m,456000.0,Hayao Miyazaki
+83,Your Name.,2016,8.4,Animation,Drama,Fantasy,1h 46m,352000.0,Makoto Shinkai
+84,High and Low,1963,8.4,Crime,Drama,Mystery,2h 23m,59000.0,Akira Kurosawa
+85,3 Idiots,2009,8.4,Comedy,Drama,N/A,2h 50m,455000.0,Rajkumar Hirani
+86,Joker,2019,8.3,Crime,Drama,Thriller,2h 2m,1600000.0,Todd Phillips
+87,Once Upon a Time in America,1984,8.3,Crime,Drama,N/A,3h 49m,393000.0,Sergio Leone
+88,Capernaum,2018,8.4,Drama,N/A,N/A,2h 6m,115000.0,Nadine Labaki
+89,Singin' in the Rain,1952,8.3,Comedy,Musical,Romance,1h 43m,271000.0,Stanley Donen
+90,Come and See,1985,8.3,Drama,Thriller,War,2h 22m,110000.0,Elem Klimov
+91,Requiem for a Dream,2000,8.3,Drama,N/A,N/A,1h 42m,934000.0,Darren Aronofsky
+92,Toy Story 3,2010,8.3,Animation,Adventure,Comedy,1h 43m,927000.0,Lee Unkrich
+93,Star Wars: Episode VI - Return of the Jedi,1983,8.3,Action,Adventure,Fantasy,2h 11m,1200000.0,Richard Marquand
+94,The Hunt,2012,8.3,Drama,N/A,N/A,1h 55m,385000.0,Thomas Vinterberg
+95,Ikiru,1952,8.3,Drama,N/A,N/A,2h 23m,95000.0,Akira Kurosawa
+96,Eternal Sunshine of the Spotless Mind,2004,8.3,Drama,Romance,Sci-Fi,1h 48m,1100000.0,Michel Gondry
+97,2001: A Space Odyssey,1968,8.3,Adventure,Sci-Fi,N/A,2h 29m,749000.0,Stanley Kubrick
+98,Reservoir Dogs,1992,8.3,Crime,Thriller,N/A,1h 39m,1100000.0,Quentin Tarantino
+99,The Apartment,1960,8.3,Comedy,Drama,Romance,2h 5m,208000.0,Billy Wilder
+100,Incendies,2010,8.3,Drama,Mystery,War,2h 11m,225000.0,Denis Villeneuve
+101,Lawrence of Arabia,1962,8.3,Adventure,Biography,Drama,3h 47m,328000.0,David Lean
+102,Scarface,1983,8.3,Crime,Drama,N/A,2h 50m,958000.0,Brian De Palma
+103,Double Indemnity,1944,8.3,Crime,Drama,Film-Noir,1h 47m,174000.0,Billy Wilder
+104,North by Northwest,1959,8.3,Adventure,Drama,Mystery,2h 16m,359000.0,Alfred Hitchcock
+105,Heat,1995,8.3,Action,Crime,Drama,2h 50m,751000.0,Michael Mann
+106,Citizen Kane,1941,8.3,Drama,Mystery,N/A,1h 59m,479000.0,Orson Welles
+107,Up,2009,8.3,Animation,Adventure,Comedy,1h 36m,1200000.0,Pete Docter
+108,M,1931,8.3,Crime,Mystery,Thriller,1h 39m,176000.0,Fritz Lang
+109,Full Metal Jacket,1987,8.2,Drama,War,N/A,1h 56m,818000.0,Stanley Kubrick
+110,Vertigo,1958,8.3,Mystery,Romance,Thriller,2h 8m,443000.0,Alfred Hitchcock
+111,Amélie,2001,8.3,Comedy,Romance,N/A,2h 2m,816000.0,Jean-Pierre Jeunet
+112,A Separation,2011,8.3,Drama,N/A,N/A,2h 3m,268000.0,Asghar Farhadi
+113,A Clockwork Orange,1971,8.2,Crime,Sci-Fi,N/A,2h 16m,908000.0,Stanley Kubrick
+114,To Kill a Mockingbird,1962,8.3,Crime,Drama,N/A,2h 9m,342000.0,Robert Mulligan
+115,Die Hard,1988,8.2,Action,Thriller,N/A,2h 12m,986000.0,John McTiernan
+116,Like Stars on Earth,2007,8.3,Drama,Family,N/A,2h 42m,216000.0,Aamir Khan
+117,The Sting,1973,8.3,Comedy,Crime,Drama,2h 9m,289000.0,George Roy Hill
+118,Oppenheimer,2023,8.3,Biography,Drama,History,3h,871000.0,Christopher Nolan
+119,Indiana Jones and the Last Crusade,1989,8.2,Action,Adventure,N/A,2h 7m,835000.0,Steven Spielberg
+120,Metropolis,1927,8.3,Drama,Sci-Fi,N/A,2h 33m,193000.0,Fritz Lang
+121,Snatch,2000,8.2,Comedy,Crime,N/A,1h 42m,942000.0,Guy Ritchie
+122,1917,2019,8.2,Action,Drama,War,1h 59m,722000.0,Sam Mendes
+123,L.A. Confidential,1997,8.2,Crime,Drama,Mystery,2h 18m,638000.0,Curtis Hanson
+124,Bicycle Thieves,1948,8.2,Drama,N/A,N/A,1h 29m,184000.0,Vittorio De Sica
+125,Downfall,2004,8.2,Biography,Drama,History,2h 36m,387000.0,Oliver Hirschbiegel
+126,Dangal,2016,8.3,Action,Biography,Drama,2h 41m,224000.0,Nitesh Tiwari
+127,Taxi Driver,1976,8.2,Crime,Drama,N/A,1h 54m,972000.0,Martin Scorsese
+128,Hamilton,2020,8.3,Biography,Drama,History,2h 40m,126000.0,Thomas Kail
+129,The Wolf of Wall Street,2013,8.2,Biography,Comedy,Crime,3h,1700000.0,Martin Scorsese
+130,Batman Begins,2005,8.2,Action,Crime,Drama,2h 20m,1600000.0,Christopher Nolan
+131,Green Book,2018,8.2,Biography,Comedy,Drama,2h 10m,629000.0,Peter Farrelly
+132,For a Few Dollars More,1965,8.2,Drama,Western,N/A,2h 12m,287000.0,Sergio Leone
+133,Judgment at Nuremberg,1961,8.3,Drama,War,N/A,2h 59m,91000.0,Stanley Kramer
+134,The Truman Show,1998,8.2,Comedy,Drama,N/A,1h 43m,1300000.0,Peter Weir
+135,Some Like It Hot,1959,8.2,Comedy,Music,Romance,2h 1m,294000.0,Billy Wilder
+136,Shutter Island,2010,8.2,Drama,Mystery,Thriller,2h 18m,1500000.0,Martin Scorsese
+137,The Kid,1921,8.2,Comedy,Drama,Family,1h 8m,140000.0,Charles Chaplin
+138,The Father,2020,8.2,Drama,Mystery,N/A,1h 37m,211000.0,Florian Zeller
+139,All About Eve,1950,8.2,Drama,N/A,N/A,2h 18m,144000.0,Joseph L. Mankiewicz
+140,There Will Be Blood,2007,8.2,Drama,N/A,N/A,2h 38m,667000.0,Paul Thomas Anderson
+141,Jurassic Park,1993,8.2,Action,Adventure,Sci-Fi,2h 7m,1100000.0,Steven Spielberg
+142,Casino,1995,8.2,Crime,Drama,N/A,2h 58m,589000.0,Martin Scorsese
+143,The Sixth Sense,1999,8.2,Drama,Mystery,Thriller,1h 47m,1100000.0,M. Night Shyamalan
+144,Ran,1985,8.2,Action,Drama,War,2h 40m,143000.0,Akira Kurosawa
+145,Top Gun: Maverick,2022,8.2,Action,Drama,N/A,2h 10m,765000.0,Joseph Kosinski
+146,No Country for Old Men,2007,8.2,Crime,Drama,Thriller,2h 2m,1100000.0,Ethan Coen
+147,The Thing,1982,8.2,Horror,Mystery,Sci-Fi,1h 49m,495000.0,John Carpenter
+148,Pan's Labyrinth,2006,8.2,Drama,Fantasy,War,1h 58m,722000.0,Guillermo del Toro
+149,Unforgiven,1992,8.2,Drama,Western,N/A,2h 10m,452000.0,Clint Eastwood
+150,A Beautiful Mind,2001,8.2,Biography,Drama,Mystery,2h 15m,1000000.0,Ron Howard
+151,Kill Bill: Vol. 1,2003,8.2,Action,Crime,Thriller,1h 51m,1200000.0,Quentin Tarantino
+152,The Treasure of the Sierra Madre,1948,8.2,Adventure,Drama,Western,2h 6m,137000.0,John Huston
+153,Prisoners,2013,8.2,Crime,Drama,Mystery,2h 33m,864000.0,Denis Villeneuve
+154,Yojimbo,1961,8.2,Action,Drama,Thriller,1h 50m,137000.0,Akira Kurosawa
+155,Finding Nemo,2003,8.2,Animation,Adventure,Comedy,1h 40m,1200000.0,Andrew Stanton
+156,The Great Escape,1963,8.2,Adventure,Drama,Thriller,2h 52m,267000.0,John Sturges
+157,Howl's Moving Castle,2004,8.2,Animation,Adventure,Family,1h 59m,479000.0,Hayao Miyazaki
+158,Monty Python and the Holy Grail,1975,8.2,Adventure,Comedy,Fantasy,1h 31m,585000.0,Terry Gilliam
+159,The Elephant Man,1980,8.2,Biography,Drama,N/A,2h 4m,271000.0,David Lynch
+160,Dial M for Murder,1954,8.2,Crime,Drama,Mystery,1h 45m,197000.0,Alfred Hitchcock
+161,Gone with the Wind,1939,8.2,Drama,Romance,War,3h 58m,345000.0,Victor Fleming
+162,Rashomon,1950,8.2,Crime,Drama,Mystery,1h 28m,188000.0,Akira Kurosawa
+163,Klaus,2019,8.2,Animation,Adventure,Comedy,1h 36m,212000.0,Sergio Pablos
+164,Chinatown,1974,8.1,Drama,Mystery,Thriller,2h 10m,363000.0,Roman Polanski
+165,The Secret in Their Eyes,2009,8.2,Drama,Mystery,Romance,2h 9m,231000.0,Juan José Campanella
+166,"Lock, Stock and Two Smoking Barrels",1998,8.1,Comedy,Crime,N/A,1h 47m,633000.0,Guy Ritchie
+167,V for Vendetta,2005,8.1,Action,Drama,Sci-Fi,2h 12m,1200000.0,James McTeigue
+168,Inside Out,2015,8.1,Animation,Adventure,Comedy,1h 35m,860000.0,Pete Docter
+169,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Comedy,Crime,Drama,1h 55m,580000.0,Martin McDonagh
+170,The Wild Robot,2024,8.2,Animation,Sci-Fi,N/A,1h 42m,155000.0,Chris Sanders
+171,The Bridge on the River Kwai,1957,8.1,Adventure,Drama,War,2h 41m,241000.0,David Lean
+172,Trainspotting,1996,8.1,Drama,N/A,N/A,1h 33m,747000.0,Danny Boyle
+173,Catch Me If You Can,2002,8.1,Biography,Crime,Drama,2h 21m,1200000.0,Steven Spielberg
+174,Raging Bull,1980,8.1,Biography,Drama,Sport,2h 9m,394000.0,Martin Scorsese
+175,Fargo,1996,8.1,Crime,Drama,Thriller,1h 38m,752000.0,Joel Coen
+176,Warrior,2011,8.1,Action,Drama,Sport,2h 20m,512000.0,Gavin O'Connor
+177,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,Adventure,Family,Fantasy,2h 10m,991000.0,David Yates
+178,Gran Torino,2008,8.1,Drama,N/A,N/A,1h 56m,836000.0,Clint Eastwood
+179,I'm Still Here,2024,8.4,Biography,Drama,History,2h 17m,98000.0,Walter Salles
+180,Million Dollar Baby,2004,8.1,Drama,Sport,N/A,2h 12m,743000.0,Clint Eastwood
+181,My Neighbor Totoro,1988,8.1,Animation,Comedy,Family,1h 26m,404000.0,Hayao Miyazaki
+182,Mad Max: Fury Road,2015,8.1,Action,Adventure,Sci-Fi,2h,1200000.0,George Miller
+183,Spider-Man: No Way Home,2021,8.2,Action,Adventure,Fantasy,2h 28m,941000.0,Jon Watts
+184,Ben-Hur,1959,8.1,Adventure,Drama,N/A,3h 32m,262000.0,William Wyler
+185,Children of Heaven,1997,8.2,Drama,Family,Sport,1h 29m,85000.0,Majid Majidi
+186,Barry Lyndon,1975,8.1,Adventure,Drama,War,3h 5m,192000.0,Stanley Kubrick
+187,12 Years a Slave,2013,8.1,Biography,Drama,History,2h 14m,762000.0,Steve McQueen
+188,Dead Poets Society,1989,8.1,Comedy,Drama,N/A,2h 8m,586000.0,Peter Weir
+189,Before Sunrise,1995,8.1,Drama,Romance,N/A,1h 41m,357000.0,Richard Linklater
+190,Blade Runner,1982,8.1,Action,Drama,Sci-Fi,1h 57m,851000.0,Ridley Scott
+191,The Grand Budapest Hotel,2014,8.1,Adventure,Comedy,Crime,1h 39m,922000.0,Wes Anderson
+192,Hacksaw Ridge,2016,8.1,Biography,Drama,History,2h 19m,632000.0,Mel Gibson
+193,Gone Girl,2014,8.1,Drama,Mystery,Thriller,2h 29m,1100000.0,David Fincher
+194,Memories of Murder,2003,8.1,Crime,Drama,Mystery,2h 12m,238000.0,Bong Joon Ho
+195,In the Name of the Father,1993,8.1,Biography,Crime,Drama,2h 13m,195000.0,Jim Sheridan
+196,"Monsters, Inc.",2001,8.1,Animation,Adventure,Comedy,1h 32m,1000000.0,Pete Docter
+197,Ratatouille,2007,8.1,Animation,Adventure,Comedy,1h 51m,878000.0,Brad Bird
+198,The Gold Rush,1925,8.1,Adventure,Comedy,Drama,1h 35m,123000.0,Charles Chaplin
+199,Wild Tales,2014,8.1,Comedy,Drama,Thriller,2h 2m,227000.0,Damián Szifron
+200,How to Train Your Dragon,2010,8.1,Animation,Action,Adventure,1h 38m,838000.0,Dean DeBlois
+201,Sherlock Jr.,1924,8.2,Action,Comedy,Romance,45m,61000.0,Buster Keaton
+202,Jaws,1975,8.1,Adventure,Drama,Horror,2h 4m,690000.0,Steven Spielberg
+203,Mary and Max,2009,8.1,Animation,Comedy,Drama,1h 32m,195000.0,Adam Elliot
+204,The Deer Hunter,1978,8.1,Drama,War,N/A,3h 3m,374000.0,Michael Cimino
+205,The General,1926,8.1,Action,Adventure,Comedy,1h 18m,102000.0,Clyde Bruckman
+206,Ford v Ferrari,2019,8.1,Action,Biography,Drama,2h 32m,517000.0,James Mangold
+207,The Wages of Fear,1953,8.1,Adventure,Drama,Thriller,2h 36m,70000.0,Henri-Georges Clouzot
+208,On the Waterfront,1954,8.1,Crime,Drama,Thriller,1h 48m,171000.0,Elia Kazan
+209,Mr. Smith Goes to Washington,1939,8.1,Comedy,Drama,N/A,2h 9m,125000.0,Frank Capra
+210,Wild Strawberries,1957,8.1,Drama,Romance,N/A,1h 32m,120000.0,Ingmar Bergman
+211,Logan,2017,8.1,Action,Drama,Sci-Fi,2h 17m,884000.0,James Mangold
+212,Rocky,1976,8.1,Drama,Sport,N/A,2h,656000.0,John G. Avildsen
+213,The Third Man,1949,8.1,Drama,Film-Noir,Mystery,1h 44m,189000.0,Carol Reed
+214,Tokyo Story,1953,8.1,Drama,N/A,N/A,2h 17m,73000.0,Yasujirô Ozu
+215,Maharaja,2024,8.4,Action,Crime,Drama,2h 21m,66000.0,Nithilan Saminathan
+216,The Big Lebowski,1998,8.1,Comedy,Crime,N/A,1h 57m,887000.0,Joel Coen
+217,Spotlight,2015,8.1,Biography,Crime,Drama,2h 9m,517000.0,Tom McCarthy
+218,The Terminator,1984,8.1,Action,Adventure,Sci-Fi,1h 47m,959000.0,James Cameron
+219,The Seventh Seal,1957,8.1,Drama,Fantasy,N/A,1h 36m,207000.0,Ingmar Bergman
+220,Room,2015,8.1,Drama,Thriller,N/A,1h 58m,466000.0,Lenny Abrahamson
+221,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,Action,Adventure,Fantasy,2h 23m,1300000.0,Gore Verbinski
+222,La haine,1995,8.1,Crime,Drama,N/A,1h 38m,210000.0,Mathieu Kassovitz
+223,Jai Bhim,2021,8.7,Crime,Drama,N/A,2h 44m,225000.0,T.J. Gnanavel
+224,Hotel Rwanda,2004,8.1,Biography,Drama,History,2h 1m,382000.0,Terry George
+225,Platoon,1986,8.1,Drama,War,N/A,2h,454000.0,Oliver Stone
+226,Before Sunset,2004,8.1,Drama,Romance,N/A,1h 20m,300000.0,Richard Linklater
+227,The Best Years of Our Lives,1946,8.1,Drama,Romance,War,2h 50m,74000.0,William Wyler
+228,The Exorcist,1973,8.1,Horror,N/A,N/A,2h 2m,475000.0,William Friedkin
+229,The Passion of Joan of Arc,1928,8.1,Biography,Drama,History,1h 54m,64000.0,Carl Theodor Dreyer
+230,The Wizard of Oz,1939,8.1,Adventure,Family,Fantasy,1h 42m,448000.0,Victor Fleming
+231,The Incredibles,2004,8.0,Animation,Action,Adventure,1h 55m,849000.0,Brad Bird
+232,The Sound of Music,1965,8.1,Biography,Drama,Family,2h 52m,274000.0,Robert Wise
+233,Rush,2013,8.1,Biography,Drama,Sport,2h 3m,532000.0,Ron Howard
+234,Hachi: A Dog's Tale,2009,8.1,Biography,Drama,Family,1h 33m,326000.0,Lasse Hallström
+235,Stand by Me,1986,8.1,Adventure,Comedy,Drama,1h 29m,462000.0,Rob Reiner
+236,Network,1976,8.1,Drama,N/A,N/A,2h 1m,178000.0,Sidney Lumet
+237,My Father and My Son,2005,8.2,Drama,Family,N/A,1h 52m,97000.0,Çagan Irmak
+238,The Handmaiden,2016,8.1,Drama,Romance,Thriller,2h 25m,186000.0,Park Chan-wook
+239,The Iron Giant,1999,8.1,Animation,Action,Adventure,1h 26m,243000.0,Brad Bird
+240,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,8.5,Animation,Action,Fantasy,1h 27m,31000.0,Haruo Sotozaki
+241,To Be or Not to Be,1942,8.1,Comedy,Romance,War,1h 39m,46000.0,Ernst Lubitsch
+242,The Battle of Algiers,1966,8.1,Drama,War,N/A,2h 1m,70000.0,Gillo Pontecorvo
+243,Into the Wild,2007,8.1,Adventure,Biography,Drama,2h 28m,677000.0,Sean Penn
+244,The Grapes of Wrath,1940,8.1,Drama,N/A,N/A,2h 9m,104000.0,John Ford
+245,Groundhog Day,1993,8.0,Comedy,Drama,Fantasy,1h 41m,713000.0,Harold Ramis
+246,A Silent Voice: The Movie,2016,8.1,Animation,Drama,N/A,2h 10m,118000.0,Naoko Yamada
+247,The Help,2011,8.1,Drama,N/A,N/A,2h 26m,510000.0,Tate Taylor
+248,Amores Perros,2000,8.0,Drama,Thriller,N/A,2h 34m,263000.0,Alejandro G. Iñárritu
+249,Rebecca,1940,8.1,Drama,Mystery,Romance,2h 10m,155000.0,Alfred Hitchcock
+250,Drishyam,2015,8.2,Crime,Drama,Mystery,2h 43m,100000.0,Nishikant Kamat
