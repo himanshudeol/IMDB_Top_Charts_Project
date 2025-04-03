@@ -14,7 +14,7 @@ IMDB_Top_Charts_Project/
 │── 📄 imdb_eda&viz.ipynb                  # Jupyter Notebook for EDA & Visualization
 │── 📄 imdb_sql_insights.sql               # SQL scripts for querying insights
 │── 📄 IMDB_TOP_CHARTS_SCRAPER.ipynb       # Web scraping script
-│── 📂 PRESENTATION                        # Presentation in .odp explaining the project
+│── 📂 PRESENTATION                        # Presentation in .pdf explaining the project
 ```
 
 ## 🌐 Web Scraping
