@@ -65,7 +65,7 @@ cd IMDB_Top_Charts_Project
 
 Install required dependencies:
 ```sh
-pip install pandas numpy requests beautifulsoup4 matplotlib seaborn mysql-connector-python
+pip install pandas numpy requests beautifulsoup4 matplotlib seaborn selenium
 ```
 Run Jupyter Notebook to perform EDA and visualization.
 
